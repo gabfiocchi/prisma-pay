@@ -1,0 +1,12 @@
+{
+    "logo": "/img/reprocard.svg",
+    "color": "#284625",
+    "prodPublicKey": "df7ffd8bb70f4298b91c73379f879f50",
+    "paymentGetEndpoint": "https://admin.reprocard.com/api/items/orders/",
+    "paymentPostEndpoint": "https://admin.reprocard.com/api/custom/prisma/decidir/pay",
+    "totalField": "total",
+    "cardFront": "/img/card-front.jpg",
+    "cardBack": "/img/card-back.jpg",
+    "loading": "/img/loading.gif",
+    "backTo": "https://reprocard.com/pedidos"
+}
